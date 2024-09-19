@@ -27,3 +27,6 @@ The CLI uses the Docker REST API to control or interact with the Docker daemon t
 
 The daemon creates and manages Docker objects, such as images, containers, networks, and volumes.
 
+# [Kubernetes](https://github.com/Ramasai2201/Devops-Journey/blob/main/Kubernetes):
+
+* Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
